@@ -19,21 +19,21 @@ Buatlah program menggunakan bahasa pemrograman PHP dengan spesifikasi sebagai be
 - User dapat melakukan searching data dengan memasukan ```keyword ``` berupa ```judul lagu``` pada search field, lalu mengklik button ```cari```.
 - User dapat melakukan pengurutan data dengan mengklik button ```Filter```, setelah itu memilih akan diurutkan berdasarkan apa, misalnya mengklik ```Judul-asc``` yang berarti akan diurutkan berdasarkan judul dan secara ascending.
 - MUSIK
-  - User dapat melihat daftar musik di menu ```home``` berupa card.
+  - User dapat melihat daftar musik di menu ```home``` yang berupa list card.
   - User dapat menambahkan musik dengan cara menekan button ```add musik``` pada navbar.
-  - User dapat melihat ```detail musik``` dengan menekan card dari musik yang akan dilihat. Maka akan menampilkan detail musik.
-  - User dapat ```mengupdate``` musik dengan cara mengklik card musik yang akan diupdate, lalu akan menampilkan detail musik, setelah itu dapat mengklik button ```update``` dan akan menampilkan form update data musik.
-  - User juga dapat ```menghapus``` data pada saat detail musik ditampilkan dengan menekan button ````hapus```.
+  - User dapat melihat ```detail musik``` dengan menekan card dari musik yang akan dilihat. Lalu akan menampilkan detail musik.
+  - User dapat ```mengupdate``` musik dengan cara mengklik card musik yang akan diupdate, lalu akan menampilkan detail musik, setelah itu dapat mengklik button ```ubah data``` lalu akan menampilkan form update data musik.
+  - User juga dapat ```menghapus``` data pada saat detail musik ditampilkan dengan menekan button ````hapus data```.
 - PENYANYI
   -   User dapat melihat daftar penyanyi berupa tabel yang ada di menu ```penyanyi``` pada navbar.
   -   User dapat melakukan ```tambah data``` penyanyi dengan melakukan pengisian form yang berada di samping tabel.
-  -   User dapat melakukan ```update data``` penyanyi dengan menekan button ```update```.
-  -   User dapat melakukan ```delete data``` penyanyi dengan menekan button ```delete```.
+  -   User dapat melakukan ```update data``` penyanyi dengan menekan button ```update``` pada kolom action.
+  -   User dapat melakukan ```delete data``` penyanyi dengan menekan button ```delete``` pada kolom action.
 - GENRE
   -   User dapat melihat daftar genre berupa tabel yang ada di menu ```genre``` pada navbar.  
   -   User dapat melakukan ```tambah data``` genre dengan melakukan pengisinan form yang berada di samping tabel.
-  -   User dapat melakukan ```update data``` genre dengan menekan button ```update```.
-  -   User dapat melakukan ```delete data``` genre dengan menekan button ```delete```.
+  -   User dapat melakukan ```update data``` genre dengan menekan button ```update``` pada kolom action..
+  -   User dapat melakukan ```delete data``` genre dengan menekan button ```delete``` pada kolom action..
 
 ### Dokumentasi
 - CRUD PENYANYI
