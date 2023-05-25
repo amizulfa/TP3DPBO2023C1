@@ -34,3 +34,19 @@ Buatlah program menggunakan bahasa pemrograman PHP dengan spesifikasi sebagai be
   -   User dapat melakukan ```tambah data``` genre dengan melakukan pengisinan form yang berada di samping tabel.
   -   User dapat melakukan ```update data``` genre dengan menekan button ```update```.
   -   User dapat melakukan ```delete data``` genre dengan menekan button ```delete```.
+
+### Dokumentasi
+- CRUD PENYANYI
+<p align="center">
+  <img src="https://github.com/amizulfa/TP2DPBO2023/blob/main/screenshoot/crud penyanyi.gif" alt="gif format testing"/>
+</p>
+
+- CRUD GENRE
+<p align="center">
+  <img src="https://github.com/amizulfa/TP2DPBO2023/blob/main/screenshoot/crud genre.gif" alt="gif format testing"/>
+</p>
+
+- CRUD MUSIK
+<p align="center">
+  <img src="https://github.com/amizulfa/TP2DPBO2023/blob/main/screenshoot/crud musik.gif" alt="gif format testing"/>
+</p>
