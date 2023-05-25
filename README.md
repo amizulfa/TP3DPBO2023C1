@@ -13,6 +13,23 @@ Buatlah program menggunakan bahasa pemrograman PHP dengan spesifikasi sebagai be
 - Menggunakan template/skin tabel yang sama untuk menampilkan tabel
 
 ### Desain Program
+Terdapat 3 tabel yaitu tabel penyanyi, genre, dan musik.
+- Tabel penyanyi :
+  - id_penyanyi
+  - nama_penyanyi
+- Tabel genre :
+  - id_genre
+  - nama_genre
+- Tabel musik :
+  - id_musik
+  - judul
+  - tahun_rilis
+  - durasi
+  - id_genre
+  - id_penyanyi
+
+Tabel musik berelasi dengan tabel penyanyi dan tabel genre
+
 <img width="550" alt="image" src="https://github.com/amizulfa/TP3DPBO2023C1/assets/100895165/819a7b67-788b-4c3a-b84b-f96d36ee3dd8">
 
 ### Alur Program
