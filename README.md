@@ -38,15 +38,15 @@ Buatlah program menggunakan bahasa pemrograman PHP dengan spesifikasi sebagai be
 ### Dokumentasi
 - CRUD PENYANYI
 <p align="center">
-  <img src="https://github.com/amizulfa/TP2DPBO2023/blob/main/screenshoot/crud penyanyi.gif" alt="gif format testing"/>
+  <img src="https://github.com/amizulfa/TP2DPBO2023/blob/main/screenshoot/crudpenyanyi.gif" alt="gif format testing"/>
 </p>
 
 - CRUD GENRE
 <p align="center">
-  <img src="https://github.com/amizulfa/TP2DPBO2023/blob/main/screenshoot/crud genre.gif" alt="gif format testing"/>
+  <img src="https://github.com/amizulfa/TP2DPBO2023/blob/main/screenshoot/crudgenre.gif" alt="gif format testing"/>
 </p>
 
 - CRUD MUSIK
 <p align="center">
-  <img src="https://github.com/amizulfa/TP2DPBO2023/blob/main/screenshoot/crud musik.gif" alt="gif format testing"/>
+  <img src="https://github.com/amizulfa/TP2DPBO2023/blob/main/screenshoot/crudmusik.gif" alt="gif format testing"/>
 </p>
