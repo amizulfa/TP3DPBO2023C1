@@ -38,15 +38,20 @@ Buatlah program menggunakan bahasa pemrograman PHP dengan spesifikasi sebagai be
 ### Dokumentasi
 - CRUD PENYANYI
 <p align="center">
-  <img src="https://github.com/amizulfa/TP2DPBO2023/blob/main/screenshoot/crudpenyanyi.gif" alt="gif format testing"/>
+  <img src="https://github.com/amizulfa/TP3DPBO2023C1/blob/ce877e19b355107f87a11e54d2a8ad842c9adc23/screenshoot/crudpenyanyi.gif" alt="gif format testing"/>
 </p>
 
 - CRUD GENRE
 <p align="center">
-  <img src="https://github.com/amizulfa/TP2DPBO2023/blob/main/screenshoot/crudgenre.gif" alt="gif format testing"/>
+  <img src="https://github.com/amizulfa/TP3DPBO2023C1/blob/ce877e19b355107f87a11e54d2a8ad842c9adc23/screenshoot/crudgenre.gif" alt="gif format testing"/>
 </p>
 
 - CRUD MUSIK
 <p align="center">
-  <img src="https://github.com/amizulfa/TP2DPBO2023/blob/main/screenshoot/crudmusik.gif" alt="gif format testing"/>
+  <img src="https://github.com/amizulfa/TP3DPBO2023C1/blob/ce877e19b355107f87a11e54d2a8ad842c9adc23/screenshoot/crudmusik.gif" alt="gif format testing"/>
+</p>
+
+- FILTER & SEARCHING
+<p align="center">
+  <img src="https://github.com/amizulfa/TP3DPBO2023C1/blob/ce877e19b355107f87a11e54d2a8ad842c9adc23/screenshoot/filter&searching.gif" alt="gif format testing"/>
 </p>
