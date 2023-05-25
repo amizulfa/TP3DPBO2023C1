@@ -53,6 +53,14 @@ Tabel musik berelasi dengan tabel penyanyi dan tabel genre
   -   User dapat melakukan ```delete data``` genre dengan menekan button ```delete``` pada kolom action..
 
 ### Dokumentasi
+- DAFTAR MUSIK 
+<img width="1000" alt="image" src="https://github.com/amizulfa/TP3DPBO2023C1/blob/3827f3c82a2d890432d9e2b4f984c9803676da23/screenshoot/datftarmusik.png">
+- DAFTAR PENYANYI
+<img width="1000" alt="image" src="https://github.com/amizulfa/TP3DPBO2023C1/blob/3827f3c82a2d890432d9e2b4f984c9803676da23/screenshoot/daftarpenyanyi.png">
+- DAFTAR GENRE
+<img width="1000" alt="image" src="https://github.com/amizulfa/TP3DPBO2023C1/blob/3827f3c82a2d890432d9e2b4f984c9803676da23/screenshoot/daftargenre.png">
+- FORM MUSIK
+<img width="1000" alt="image" src="https://github.com/amizulfa/TP3DPBO2023C1/blob/3827f3c82a2d890432d9e2b4f984c9803676da23/screenshoot/formmusik.png">
 - CRUD PENYANYI
 <p align="center">
   <img src="https://github.com/amizulfa/TP3DPBO2023C1/blob/ce877e19b355107f87a11e54d2a8ad842c9adc23/screenshoot/crudpenyanyi.gif" alt="gif format testing"/>
@@ -71,4 +79,9 @@ Tabel musik berelasi dengan tabel penyanyi dan tabel genre
 - FILTER & SEARCHING
 <p align="center">
   <img src="https://github.com/amizulfa/TP3DPBO2023C1/blob/ce877e19b355107f87a11e54d2a8ad842c9adc23/screenshoot/filter&searching.gif" alt="gif format testing"/>
+</p>
+
+- VIDEO PREVIEW
+<p align="center">
+  <img src="https://github.com/amizulfa/TP3DPBO2023C1/blob/2d8100dc32b1ce478d43f6d81c4de0da112af904/video_preview.mp4" alt="mp4"/>
 </p>
