@@ -86,4 +86,8 @@ Tabel musik berelasi dengan tabel penyanyi dan tabel genre
 </p>
 
 #### VIDEO PREVIEW
-https://github.com/amizulfa/TP3DPBO2023C1/blob/039bea7d84c975d2d15258bfe559dbb4bd27ad03/video_preview.mp4
+
+https://github.com/amizulfa/TP3DPBO2023C1/assets/100895165/bbec9871-e626-4812-8725-80142b07d97d
+
+
+
