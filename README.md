@@ -1,8 +1,8 @@
 # TP3DPBO2023C1
-### Janji
+## Janji
 > Saya Amida Zulfa Laila dengan NIM 2101147 mengerjakan Tugas Praktikum 3 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
-### Requirements Soal
+## Requirements Soal
 Buatlah program menggunakan bahasa pemrograman PHP dengan spesifikasi sebagai berikut:
 - Program bebas, kecuali program Ormawa
 - Menggunakan minimal 3 buah tabel
@@ -12,7 +12,7 @@ Buatlah program menggunakan bahasa pemrograman PHP dengan spesifikasi sebagai be
 - 1 tabel pada database ditampilkan dalam bentuk bukan tabel, 2 tabel sisanya ditampilkan dalam bentuk tabel (seperti contoh saat praktikum)
 - Menggunakan template/skin tabel yang sama untuk menampilkan tabel
 
-### Desain Program
+## Desain Program
 Terdapat 3 tabel yaitu tabel penyanyi, genre, dan musik.
 - Tabel penyanyi :
   - id_penyanyi
@@ -32,7 +32,7 @@ Tabel musik berelasi dengan tabel penyanyi dan tabel genre
 
 <img width="550" alt="image" src="https://github.com/amizulfa/TP3DPBO2023C1/assets/100895165/819a7b67-788b-4c3a-b84b-f96d36ee3dd8">
 
-### Alur Program
+## Alur Program
 - User dapat melakukan searching data dengan memasukan ```keyword ``` berupa ```judul lagu``` pada search field, lalu mengklik button ```cari```.
 - User dapat melakukan pengurutan data dengan mengklik button ```Filter```, setelah itu memilih akan diurutkan berdasarkan apa, misalnya mengklik ```Judul-asc``` yang berarti akan diurutkan berdasarkan judul dan secara ascending.
 - MUSIK
@@ -52,36 +52,40 @@ Tabel musik berelasi dengan tabel penyanyi dan tabel genre
   -   User dapat melakukan ```update data``` genre dengan menekan button ```update``` pada kolom action..
   -   User dapat melakukan ```delete data``` genre dengan menekan button ```delete``` pada kolom action..
 
-### Dokumentasi
-- DAFTAR MUSIK 
+## Dokumentasi
+#### DAFTAR MUSIK 
 <img width="1000" alt="image" src="https://github.com/amizulfa/TP3DPBO2023C1/blob/3827f3c82a2d890432d9e2b4f984c9803676da23/screenshoot/datftarmusik.png">
-- DAFTAR PENYANYI
+
+#### DAFTAR PENYANYI
 <img width="1000" alt="image" src="https://github.com/amizulfa/TP3DPBO2023C1/blob/3827f3c82a2d890432d9e2b4f984c9803676da23/screenshoot/daftarpenyanyi.png">
-- DAFTAR GENRE
+
+#### DAFTAR GENRE
 <img width="1000" alt="image" src="https://github.com/amizulfa/TP3DPBO2023C1/blob/3827f3c82a2d890432d9e2b4f984c9803676da23/screenshoot/daftargenre.png">
-- FORM MUSIK
+
+#### FORM MUSIK
 <img width="1000" alt="image" src="https://github.com/amizulfa/TP3DPBO2023C1/blob/3827f3c82a2d890432d9e2b4f984c9803676da23/screenshoot/formmusik.png">
-- CRUD PENYANYI
+
+#### CRUD PENYANYI
 <p align="center">
   <img src="https://github.com/amizulfa/TP3DPBO2023C1/blob/ce877e19b355107f87a11e54d2a8ad842c9adc23/screenshoot/crudpenyanyi.gif" alt="gif format testing"/>
 </p>
 
-- CRUD GENRE
+#### CRUD GENRE
 <p align="center">
   <img src="https://github.com/amizulfa/TP3DPBO2023C1/blob/ce877e19b355107f87a11e54d2a8ad842c9adc23/screenshoot/crudgenre.gif" alt="gif format testing"/>
 </p>
 
-- CRUD MUSIK
+#### CRUD MUSIK
 <p align="center">
   <img src="https://github.com/amizulfa/TP3DPBO2023C1/blob/ce877e19b355107f87a11e54d2a8ad842c9adc23/screenshoot/crudmusik.gif" alt="gif format testing"/>
 </p>
 
-- FILTER & SEARCHING
+#### FILTER & SEARCHING
 <p align="center">
   <img src="https://github.com/amizulfa/TP3DPBO2023C1/blob/ce877e19b355107f87a11e54d2a8ad842c9adc23/screenshoot/filter&searching.gif" alt="gif format testing"/>
 </p>
 
-- VIDEO PREVIEW
+#### VIDEO PREVIEW
 <p align="center">
   <img src="https://github.com/amizulfa/TP3DPBO2023C1/blob/2d8100dc32b1ce478d43f6d81c4de0da112af904/video_preview.mp4" alt="mp4"/>
 </p>
